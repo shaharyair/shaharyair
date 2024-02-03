@@ -1,5 +1,12 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on new and innovative projects.<br>🌱 I’m always learning and improving my skills in full stack development.<br>💬 Ask me about - Git, Javascript, React, Node.js, Next.js and Mongodb.<br>⚡ Fun fact - i'm obsessed with Git and good commit messages.
+
+Hey there! 👋
+
+💻  I'm Shahar, a 23-year-old self-taught full-stack programmer who loves to learn and adapt to new technologies. I've dedicated countless hours to teaching myself how to code while staying current with relevant tech and adhering to best practices.
+
+⚡️ I'm open to new opportunities and collaborations. Let's connect and explore how we can work together to bring innovative ideas to life!
+
+🚀 Fun fact - I'm obsessed with **Git** and good commit messages.  
 
 
 ## 🌐 Socials:
