@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing a startup corporate website.<br>👯 I’m looking to collaborate on new and innovative projects.<br>🌱 I’m always learning and improving my skills in full stack development.<br>💬 Ask me about - Git, Javascript, React, Node.js, Next.js and Mongodb.<br>⚡ Fun fact - i'm obsessed with Git and good commit messages.
+👯 I’m looking to collaborate on new and innovative projects.<br>🌱 I’m always learning and improving my skills in full stack development.<br>💬 Ask me about - Git, Javascript, React, Node.js, Next.js and Mongodb.<br>⚡ Fun fact - i'm obsessed with Git and good commit messages.
 
 
 ## 🌐 Socials:
