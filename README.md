@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋<br><br>💻  I'm Shahar, a 24-year-old self-taught full-stack programmer who loves to learn and adapt to new technologies. I've deicated countless hours to teaching myself how to code while staying current with relevant tech and adhering to best practices.<br><br>⚡️ I'm open to new opportunities and collaborations. Let's connect and explore how we can work together to bring innovative ideas to life!<br><br>🚀 Fun fact - I'm obsessed with **Git** and good commit messages.
+Hey there! 👋<br><br>💻  I'm Shahar, a 24-year-old self-taught full-stack developer who loves to learn and adapt to new technologies. I've deicated countless hours to teaching myself how to code while staying current with relevant tech and adhering to best practices.<br><br>⚡️ I'm open to new opportunities and collaborations. Let's connect and explore how we can work together to bring innovative ideas to life!<br><br>🚀 Fun fact - I'm obsessed with **Git** and good commit messages.
 
 
 ## 🌐 Socials:
