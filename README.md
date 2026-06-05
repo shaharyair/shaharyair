@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋<br><br>💻  I'm Shahar, a 25-year-old self-taught full-stack developer who loves learning and adapting to new technologies. I've dedicated countless hours to teaching myself how to code while staying current with relevant tech and adhering to best practices.<br><br>📈  Deep in **ad-tech**, I ship the whole stack: frontend, backend, AWS infra. Search arbitrage, campaign tooling, ad servers, dashboards. I build it end to end.<br><br>⚡️ I'm always up for new collaborations. Let's connect and explore how we can work together to bring innovative ideas to life!<br><br>🚀 Fun fact - I'm obsessed with **Git** and informative commit messages.
+Hey there! 👋<br><br>💻  I'm Shahar, a 25-year-old self-taught full-stack developer who loves learning and adapting to new technologies. I've dedicated countless hours to teaching myself how to code while staying current with relevant tech and adhering to best practices.<br><br>📈  I work in **ad-tech**, shipping the whole stack: frontend, backend, AWS infra. Search arbitrage, campaign tooling, ad servers, dashboards. I build it end to end.<br><br>⚡️ I'm always up for new collaborations. Let's connect and explore how we can work together to bring innovative ideas to life!<br><br>🚀 Fun fact - I'm obsessed with **Git** and informative commit messages.
 
 
 ## 🌐 Socials:
